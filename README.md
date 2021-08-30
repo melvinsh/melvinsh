@@ -1,5 +1,5 @@
-<h2> Hi, I'm Melvin!</h2>
-<p>Security Analyst at <a href="http://www.hackerone.com">HackerOne</a>. Ruby programmer.</p>
+<h2> Hi, I'm Melvin!</h2> 
+Security Analyst at <a href="http://www.hackerone.com">HackerOne</a> and a Ruby programmer.
 
 ### About me... 
 - 🔭 I’m currently working on several public and private projects.
