@@ -1,5 +1,5 @@
 ## Hi, I'm Melvin!
-Security Analyst at <a href="http://www.hackerone.com">HackerOne</a> and a Ruby programmer.
+Technical services at <a href="http://www.hackerone.com">HackerOne</a> and a Ruby programmer.
 
 ## 👻 About me... 
 - 🔭 I’m working on several public and private projects.
