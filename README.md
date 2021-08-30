@@ -15,7 +15,7 @@ Primary stack:
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 ![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat&logo=Ruby&logoColor=red)
 
-Also skilled in:
+Also working with:
 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
