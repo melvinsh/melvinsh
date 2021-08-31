@@ -17,7 +17,7 @@ Primary stack →
 
 Also working with →
 
-![CSS3](https://img.shields.io/badge/-CSS3-grey?style=flat&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-grey?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=flat&logo=javascript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-grey?style=flat&logo=Node.js&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-grey?style=flat&logo=css3&logoColor=blue)
+![HTML5](https://img.shields.io/badge/-HTML5-grey?style=flat&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=flat&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-grey?style=flat&logo=Node.js)
