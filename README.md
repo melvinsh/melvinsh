@@ -14,9 +14,3 @@ Technical services at <a href="http://www.hackerone.com">HackerOne</a> and a Rub
 ![Amazon AWS](https://img.shields.io/badge/%20AWS-232F3E?style=flat&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat&logo=Ruby&logoColor=red&logoColor=white)
-
-
-![CSS3](https://img.shields.io/badge/-CSS3-grey?style=flat&logo=css3&logoColor=blue)
-![HTML5](https://img.shields.io/badge/-HTML5-grey?style=flat&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=flat&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-grey?style=flat&logo=Node.js)
