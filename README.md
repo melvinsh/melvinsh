@@ -7,7 +7,6 @@ Technical services at <a href="http://www.hackerone.com">HackerOne</a> and a Rub
 - 🔭 Working on several public and private projects.
 - 🌱 Currently learning Japanese. 
 - 👯 Looking to collaborate on projects related to Steam.
-- 😄 Pronouns: he/him.
 
 ## ⚡ Technologies
 
