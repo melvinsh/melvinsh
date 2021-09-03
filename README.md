@@ -6,7 +6,7 @@ Technical services at <a href="http://www.hackerone.com">HackerOne</a> and a Rub
 ## 👻 About me... 
 - 🔭 Working on several public and private projects.
 - 🌱 Currently learning Japanese. 
-- 👯 Looking to collaborate on projects related to Steam.
+- 👯 Looking to collaborate on projects related to [Steam](https://steamcommunity.com/).
 
 ## ⚡ Technologies
 
