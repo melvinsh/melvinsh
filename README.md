@@ -1,5 +1,5 @@
 ## Hi, I'm Melvin!
-Hacker at <a href="https://www.hadrian.io/">Hadrian</a> and a Ruby programmer.
+Hacker at <a href="https://www.hadrian.io/">Hadrian</a> and a Ruby & Go programmer.
 
 📫 You can email me at `hi@melv.in` or send me a message on [Telegram](https://telegram.me/melvinsh).
 
