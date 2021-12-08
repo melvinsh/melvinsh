@@ -11,4 +11,6 @@ Hacker at <a href="https://www.hadrian.io/">Hadrian</a> and a Ruby & Go programm
 
 ![Amazon AWS](https://img.shields.io/badge/%20AWS-232F3E?style=flat&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-1f425f?style=flat&logo=Go&logoColor=1f425f&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat&logo=Ruby&logoColor=red&logoColor=white)
+
