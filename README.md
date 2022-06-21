@@ -1,7 +1,7 @@
 ## Hi, I'm Melvin!
 Hacker at <a href="https://www.hadrian.io/">Hadrian</a> and a Ruby & Go programmer.
 
-📫 You can email me at `hi@melv.in` or send me a message on [Telegram](https://telegram.me/melvinsh).
+📫 You can email me at `hi@melv.in`.
 
 ## 👻 About me... 
 - 🔭 Working on several public and private projects.
